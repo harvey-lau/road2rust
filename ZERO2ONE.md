@@ -10,6 +10,11 @@ Rust everything.
 
 > The time of To Do means deadline.
 
+#### 2023-10-31
+
+- 2023-11
+  - 2023-11-30: finish *The Backtracking of [*Top 100 Liked*](https://leetcode.com/studyplan/top-100-liked/) in Rust*.
+
 #### 2023-08-28
 
 - 2023-08: finish 3 projects of *The Rust Programming Language*.
