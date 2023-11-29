@@ -1,6 +1,6 @@
 # The Dynamic Programming of [*Top 100 Liked*](https://leetcode.com/studyplan/top-100-liked/) in Rust
 
-This is a Rust version of [The Dynamic Programming of *Top 100 Liked* in C++](https://github.com/harvey-lau/road2cs/blob/main/1-src/leetcode/top-100-liked/dynamic-programming.md).
+This is a Rust version of [The Dynamic Programming of *Top 100 Liked* in C++](https://github.com/harvey-lau/road2cs/blob/main/1-src/programming/leetcode/top-100-liked/backtracking.md).
 
 ## 0x01 Common Pattern
 
