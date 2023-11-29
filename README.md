@@ -10,4 +10,5 @@ This repository is *The Road to Rust*.
 
 ### 2. LeetCode
 
+- [The Backtracking of *Top 100 Liked* in Rust](https://github.com/harvey-lau/road2rust/blob/main/1-src/misc/leetcode/top-100-liked/backtracking.md)
 - [The Dynamic Programming of *Top 100 Liked* in Rust](https://github.com/harvey-lau/road2rust/blob/main/1-src/misc/leetcode/top-100-liked/dynamic-programming.md)

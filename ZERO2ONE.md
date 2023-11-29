@@ -30,5 +30,6 @@ Rust everything.
 - 2023-08-30: finished project 2, minigrep.
 - 2023-08-31: finished project 3, hello.
 - 2023-09-10: finished *The Dynamic Programming of [*Top 100 Liked*](https://leetcode.com/studyplan/top-100-liked/) in Rust*.
+- 2023-11-29: finished *The Backtracking of [*Top 100 Liked*](https://leetcode.com/studyplan/top-100-liked/) in Rust*.
 
 ## 0x03 From Zero to Zero
